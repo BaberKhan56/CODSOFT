@@ -14,27 +14,7 @@ Internship: CodSoft
 Domain: Java Programming
 
 📂 Projects Included
-🔹 1. Currency Converter
-
-Converts currency from one type to another
-
-Uses user input for amount and currency selection
-
-Demonstrates conditional logic and calculations
-
-Technologies: Java, Console I/O
-
-🔹 2. Marks Calculator
-
-Takes marks of multiple subjects
-
-Calculates total marks, average percentage, and grade
-
-Uses loops and conditional statements
-
-Technologies: Java
-
-🔹 3. Number Guessing Game
+🔹 1. Number Guessing Game
 
 Generates a random number
 
@@ -44,17 +24,17 @@ Displays attempts count
 
 Technologies: Java, Random class
 
-🔹 4. Student Management System
+🔹 2. Grade Calculator
 
-Add, view, search, and delete student records
+Takes marks of multiple subjects
 
-Uses classes and objects
+Calculates total marks, average percentage, and grade
 
-Menu-driven console application
+Uses loops and conditional statements
 
-Technologies: Java, OOP concepts
+Technologies: Java
 
-🔹 5. ATM Machine
+🔹 3. ATM Interface
 
 Simulates ATM operations
 
@@ -71,6 +51,26 @@ Java
 Object-Oriented Programming (OOP)
 
 Console-based Applications
+
+🔹 4. Currency Converter
+
+Converts currency from one type to another
+
+Uses user input for amount and currency selection
+
+Demonstrates conditional logic and calculations
+
+Technologies: Java, Console I/O
+
+🔹 5. Student Management System
+
+Add, view, search, and delete student records
+
+Uses classes and objects
+
+Menu-driven console application
+
+Technologies: Java, OOP concepts
 
 
 
