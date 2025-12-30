@@ -14,6 +14,7 @@ Internship: CodSoft
 Domain: Java Programming
 
 📂 Projects Included
+
 🔹 1. Number Guessing Game
 
 Generates a random number
@@ -24,6 +25,7 @@ Displays attempts count
 
 Technologies: Java, Random class
 
+
 🔹 2. Grade Calculator
 
 Takes marks of multiple subjects
@@ -33,6 +35,7 @@ Calculates total marks, average percentage, and grade
 Uses loops and conditional statements
 
 Technologies: Java
+
 
 🔹 3. ATM Interface
 
@@ -52,6 +55,7 @@ Object-Oriented Programming (OOP)
 
 Console-based Applications
 
+
 🔹 4. Currency Converter
 
 Converts currency from one type to another
@@ -62,6 +66,7 @@ Demonstrates conditional logic and calculations
 
 Technologies: Java, Console I/O
 
+
 🔹 5. Student Management System
 
 Add, view, search, and delete student records
@@ -71,6 +76,7 @@ Uses classes and objects
 Menu-driven console application
 
 Technologies: Java, OOP concepts
+
 
 
 
