@@ -1,25 +1,20 @@
-# Task 4 – Currency Converter
+# Task 5 - Student Management System
 
-This project is developed as part of the **CodSoft Java Internship**.
+This project is developed as part of the CodSoft Java Internship.
 
-##  Project Description
-The Currency Converter is a Java console-based application that converts an amount
-from one currency to another using **real-time exchange rates** fetched from a public API.
+## Description
+A console-based Java Student Management System that allows users to manage student records efficiently. The system is built using Object-Oriented Programming principles and supports basic CRUD operations along with file handling for data persistence.
 
-##  Features
-- Currency selection (Base & Target)
-- Real-time exchange rate fetching
-- User input for amount
-- Accurate currency conversion
-- Displays converted amount with currency symbol
+## Features
+- Add new student records
+- Update existing student information
+- Search students by roll number
+- Display all student records
+- Delete student records
+- File handling for permanent data storage
+- Menu-driven console interface
+- Input validation for accurate data entry
 
-##  Technologies Used
-- Java
-- REST API
-- HttpURLConnection
-- Console-based UI
-
-##  How to Run the Program
-1. Open terminal or command prompt.
-2. Navigate to the project folder.
-3. Compile the program:
+## How to Run
+javac StudentManagementApp.java  
+java StudentManagementApp
